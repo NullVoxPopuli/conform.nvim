@@ -1,5 +1,13 @@
 # Changelog
 
+## [5.4.0](https://github.com/stevearc/conform.nvim/compare/v5.3.0...v5.4.0) (2024-02-22)
+
+
+### Features
+
+* add `gersemi` formatter ([#305](https://github.com/stevearc/conform.nvim/issues/305)) ([79d7fd9](https://github.com/stevearc/conform.nvim/commit/79d7fd9ee84e603bdb66038b1d1ed2703ec08d14))
+* add formatter sqlfmt ([#307](https://github.com/stevearc/conform.nvim/issues/307)) ([015f9e9](https://github.com/stevearc/conform.nvim/commit/015f9e90d945545b665dfda52e6c96590c3d1292))
+
 ## [5.3.0](https://github.com/stevearc/conform.nvim/compare/v5.2.1...v5.3.0) (2024-02-20)
 
 
